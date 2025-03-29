@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/maven-project01/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Day04-后端Web基础(Maven基础)/资料/02. maven项目/maven-project02/pom.xml" />
+        <option value="$PROJECT_DIR$/maven-project02/pom.xml" />
+        <option value="$PROJECT_DIR$/maven-projectA/pom.xml" />
+        <option value="$PROJECT_DIR$/maven-projectB/pom.xml" />
+        <option value="$PROJECT_DIR$/maven-projectC/pom.xml" />
+        <option value="$PROJECT_DIR$/servlet-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-web-quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/tilas-management/pom.xml" />
+        <option value="$PROJECT_DIR$/jdbc-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mybatis-quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/jdbc-demo1/pom.xml" />
+        <option value="$PROJECT_DIR$/tlias-web-management2/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$USER_HOME$/Desktop/Day04-后端Web基础(Maven基础)/资料/02. maven项目/maven-project02/pom.xml" />
+        <option value="$PROJECT_DIR$/jdbc-demo/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="PWA">
+    <option name="wasEnabledAtLeastOnce" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_20" project-jdk-name="azul-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
